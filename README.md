@@ -65,6 +65,16 @@ Any [Svg property](https://github.com/react-native-community/react-native-svg#co
 ### Author
 
 <!-- readme: FDiskas -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/fdiskas">
+            <img src="https://avatars.githubusercontent.com/u/468006?v=4" width="100;" alt="fdiskas"/>
+            <br />
+            <sub><b>Vytenis</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: FDiskas -end -->
 
 ## Contributors
