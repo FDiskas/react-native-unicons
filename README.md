@@ -65,7 +65,7 @@ Any [Svg property](https://github.com/react-native-community/react-native-svg#co
 ### Author
 
 <!-- readme: FDiskas -start -->
-<!-- readme: yigithanyucedag -end -->
+<!-- readme: FDiskas -end -->
 
 ## Contributors
 
