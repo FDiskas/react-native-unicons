@@ -5,10 +5,9 @@
   "main": "lib/index.js",
   "typings": "lib/react-native-unicons.d.ts",
   "scripts": {
-    "cleanup": "rimraf typings src",
+    "cleanup": "rimraf typings src node_modules/@iconscout/unicons/svg/line/snow-flake.svg",
     "prepare-icons": "npm run cleanup && svgr --native --icon --typescript --ignore-existing -d src/icons node_modules/@iconscout/unicons/svg/line",
-    "prepublish": "npm run prepare-icons && tsc -p tsconfig.json && npx api-extractor run --local && npm run cleanup",
-    "postinstall": "patch-package"
+    "prepublish": "npm run prepare-icons && tsc -p tsconfig.json && npx api-extractor run --local && npm run cleanup"
   },
   "repository": {
     "type": "git",
@@ -40,7 +39,6 @@
     "@svgr/babel-plugin-replace-jsx-attribute-value": "^5.0.1",
     "@svgr/cli": "^5.5.0",
     "@types/react": "^17.0.11",
-    "patch-package": "^6.4.7",
     "react-native": "^0.64.2",
     "react-native-svg": "^12.1.1",
     "rimraf": "^3.0.2",
