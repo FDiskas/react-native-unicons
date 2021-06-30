@@ -1,0 +1,6 @@
+feather/
+api-extractor.json
+tsconfig.json
+.svgrrc.js
+.gitmodules
+src/

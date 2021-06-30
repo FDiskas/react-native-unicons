@@ -1,0 +1,6 @@
+node_modules/
+typings/
+*.log
+.DS_Store
+lib/
+src/icons/
