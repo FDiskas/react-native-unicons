@@ -1,9 +1,11 @@
 name: Publish Package
 
 on:
-  create:
+  push:
+    branches:
+      - "!*"
     tags:
-      - v*
+      - "v*"
 
 jobs:
   publish-npm:
