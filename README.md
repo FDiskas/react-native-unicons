@@ -46,7 +46,7 @@ You can also include the whole icon pack:
 import * as Icon from "react-native-unicons";
 
 const App = () => {
-  return <Icon.AwardAlt />;
+  return <Icon.AwardAlt color="red" />;
 };
 ```
 
@@ -60,7 +60,7 @@ Any [Svg property](https://github.com/react-native-community/react-native-svg#co
 | **`height`**      | Height of the icon.                                                  | `24`             |
 | **`stroke`**      | The stroke prop refers to the color outline the icon.                | `"currentColor"` |
 | **`strokeWidth`** | The strokeWidth prop specifies the width of the outline on the icon. | `2`              |
-| **`fill, color`** | The fill prop refers to the color inside the icon.                   | `"none"`         |
+| **`fill`**        | The fill prop refers to the color inside the icon.                   | `"currentColor"` |
 
 ### Author
 
