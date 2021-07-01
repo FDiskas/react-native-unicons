@@ -1,7 +1,7 @@
 {
   "name": "react-native-unicons",
   "version": "1.0.3",
-  "description": "React Native component for Unicons icons",
+  "description": "Unicons icons for React Native",
   "main": "lib/index.js",
   "typings": "lib/react-native-unicons.d.ts",
   "scripts": {
@@ -20,7 +20,7 @@
     "react-native",
     "native",
     "rn",
-    "feather",
+    "unicons",
     "icons"
   ],
   "author": "FDiskas",
@@ -34,6 +34,7 @@
     "react-native-svg": ">=5.3"
   },
   "devDependencies": {
+    "@iconscout/unicons": "^4.0.0",
     "@microsoft/api-extractor": "^7.16.1",
     "@svgr/babel-plugin-add-jsx-attribute": "^5.4.0",
     "@svgr/babel-plugin-replace-jsx-attribute-value": "^5.0.1",
@@ -43,8 +44,5 @@
     "react-native-svg": "^12.1.1",
     "rimraf": "^3.0.2",
     "typescript": "^4.3.4"
-  },
-  "dependencies": {
-    "@iconscout/unicons": "*"
   }
 }

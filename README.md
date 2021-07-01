@@ -9,7 +9,7 @@ react-native-unicons is a collection of simply beautiful open source icons for R
 
 At its core, Unicons is a collection of SVG files. To use SVG files on React Native, [`react-native-svg`](https://github.com/react-native-community/react-native-svg) is needed. This component contains "line" style Unicons icons converted and made compatible with [`react-native-svg`](https://github.com/react-native-community/react-native-svg) package.
 
-#### Based on Unicons Icons `v4.0.0`
+#### Based on [Unicons Icons](https://www.npmjs.com/package/@iconscout/unicons) `v4.0.0`
 
 ## Installation
 
