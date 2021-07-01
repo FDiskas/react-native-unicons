@@ -1,10 +1,10 @@
 ## React Native Unicons Icons
 
-![npm version](https://img.shields.io/npm/v/react-native-unicons.svg?style=flat-square)
-![npm downloads](https://img.shields.io/npm/dm/react-native-unicons.svg?style=flat-square)
-![npm types](https://badgen.net/npm/types/react-native-unicons?style=flat-square)
-![dependency status](https://img.shields.io/librariesio/release/npm/react-native-unicons?style=flat-square)
-![npm bundle size](https://img.shields.io/bundlephobia/minzip/react-native-unicons?style=flat-square)
+[![npm version](https://img.shields.io/npm/v/react-native-unicons.svg?style=flat-square)](https://www.npmjs.com/package/react-native-unicons)
+[![npm downloads](https://img.shields.io/npm/dm/react-native-unicons.svg?style=flat-square)](https://www.npmjs.com/package/react-native-unicons)
+[![npm types](https://badgen.net/npm/types/react-native-unicons?style=flat-square)](https://www.npmjs.com/package/react-native-unicons)
+[![dependency status](https://img.shields.io/librariesio/release/npm/react-native-unicons?style=flat-square)](https://www.npmjs.com/package/react-native-unicons)
+[![npm bundle size](https://img.shields.io/bundlephobia/minzip/react-native-unicons?style=flat-square)](https://www.npmjs.com/package/react-native-unicons)
 
 #### What is react-native-unicons?
 
