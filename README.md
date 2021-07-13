@@ -65,6 +65,7 @@ Any [Svg property](https://github.com/react-native-community/react-native-svg#co
 | **`stroke`**      | The stroke prop refers to the color outline the icon.                | `"currentColor"` |
 | **`strokeWidth`** | The strokeWidth prop specifies the width of the outline on the icon. | `2`              |
 | **`fill`**        | The fill prop refers to the color inside the icon.                   | `"currentColor"` |
+| **`color`**       | The color inside the icon.                                           | `"currentColor"` |
 
 ### Author
 
