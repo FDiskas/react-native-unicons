@@ -5,6 +5,7 @@
 [![npm types](https://badgen.net/npm/types/react-native-unicons?style=flat-square)](https://www.npmjs.com/package/react-native-unicons)
 [![dependency status](https://img.shields.io/librariesio/release/npm/react-native-unicons?style=flat-square)](https://www.npmjs.com/package/react-native-unicons)
 [![npm bundle size](https://img.shields.io/bundlephobia/minzip/react-native-unicons?style=flat-square)](https://www.npmjs.com/package/react-native-unicons)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/FDiskas/react-native-unicons)
 
 #### What is react-native-unicons?
 
