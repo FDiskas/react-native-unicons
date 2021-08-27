@@ -22,7 +22,7 @@ At its core, Unicons is a collection of SVG files. To use SVG files on React Nat
 
 ### Icons
 
-List of available icons in this component.
+List of available icons in this package.
 [https://iconscout.com](https://iconscout.com/unicons/explore/line)
 
 ### Usage
